@@ -9,6 +9,7 @@ pygame = "*"
 [dev-packages]
 pytest = "*"
 ipython = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.6"
